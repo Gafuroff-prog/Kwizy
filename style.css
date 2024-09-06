@@ -1,0 +1,43 @@
+.header1{
+    color: white;
+    text-align: center;
+     
+}
+.box{
+    background-color:#311313;
+    margin-left: 500px;
+    margin-right: 200px;
+    width:300px;
+}
+body{
+    background-color:  #2A5D5A;
+
+}
+ 
+.box2{
+    border: 5px solid red;
+    height: 212px;
+   
+}
+.paragraph{
+    text-align: center;
+    margin-top: 20px;
+    
+}
+.box3{
+    border: 10px solid;
+    background-color: aqua;
+    
+
+}
+
+.box4{
+    border: 10px solid black;
+    height: 100px;
+    text-align: center;
+background-color: aqua;
+}
+.paragraph2{
+text-align: center;
+margin-top: 20px;
+}
